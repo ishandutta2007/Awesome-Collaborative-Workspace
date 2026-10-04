@@ -62,9 +62,9 @@ The following table is sorted by **Company Size / Valuation / Revenue** in desce
 
 The open-source collaborative workspace ecosystem is **exceptionally mature, privacy-focused, and feature-rich**. These solutions offer full self-hosting capabilities, local-first data storage, and zero vendor lock-in.
 
-Sorted by **GitHub Star Count** in descending order:
+Sorted by **GitHub Stars_Count** in descending order:
 
-| Project | Description | Stars 🌟 |
+| Project | Description | GitHub_Stars 🌟 |
 | :--- | :--- | :--- |
 | **[Excalidraw](https://github.com/excalidraw/excalidraw)** 🎨 | **Virtual hand-drawn style collaborative whiteboard.** End-to-end encrypted infinite canvas, shape libraries, SVG/PNG export, local-first autosave. | [<img src="https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white" alt="Excalidraw Stars"/>](https://github.com/excalidraw/excalidraw/stargazers) |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** 🚀 | **The leading open-source Notion alternative.** AI collaborative workspace with docs, wikis, grids, kanban boards, and databases. AGPLv3. | [<img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white" alt="AppFlowy Stars"/>](https://github.com/AppFlowy-IO/AppFlowy/stargazers) |
@@ -90,7 +90,7 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 1. **Fork the Repository** 🍴
 2. **Add/Update Entries** in `README.md` (Ensure consistent markdown table formatting).
-3. **Include Key Details**: Name, official URL, concise description, precise pricing/free tier details or repository star badge.
+3. **Include Key Details**: Name, official URL, concise description, precise pricing/free tier details or repository Stars_Badge.
 4. **Submit a Pull Request** 🚀 with a brief description of additions.
 
 Refer to [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for list standards and guidelines!
